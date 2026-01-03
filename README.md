@@ -1,4 +1,4 @@
-# Employee Management and Payroll System
+# Employee Management and Payroll System 
 
 A comprehensive employee management and payroll system built using **Java**, **Maven**, **JDBC**, and **MySQL**.
 
